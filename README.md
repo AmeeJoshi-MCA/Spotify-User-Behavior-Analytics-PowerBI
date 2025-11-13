@@ -72,7 +72,7 @@ A detailed data dictionary (**Spotify Analysis Data Terminologies**) defines the
 
 ## Principal Visualizations
 
-<img width="1202" height="798" alt="image" src="https://github.com/user-attachments/assets/df7a47d8-a59c-4095-90bb-78d909cdd6a5" />
+<img width="1197" height="793" alt="image" src="https://github.com/user-attachments/assets/954dde38-5452-4a3b-aa3d-8e1a8516adb9" />
 
 <img width="1200" height="801" alt="image" src="https://github.com/user-attachments/assets/4c35926e-0e66-41ac-856c-3449be8a4f08" />
 
@@ -84,13 +84,13 @@ A detailed data dictionary (**Spotify Analysis Data Terminologies**) defines the
 
 ### Power Bi
  1. Clone this repository  
-   ```bash  git clone https://github.com/AmeeJoshi-MCA/Social-Media-Ad-Performance.git```
+   ```bash  git clone [https://github.com/AmeeJoshi-MCA/Social-Media-Ad-Performance.git](https://github.com/AmeeJoshi-MCA/Spotify-User-Behavior-Analytics-PowerBI)```
  
- 2. Place Data Files: Ensure the four required .csv files (ad_events.csv, ads.csv, campaigns.csv, users.csv) are placed in the same folder as the .pbix file.
+ 2. Place Data Files: Ensure the required .csv files are placed in the same folder as the .pbix file.
 
  3. Open the [file](https://github.com/AmeeJoshi-MCA/Social-Media-Ad-Performance/blob/main/PowerBi/SocialMediaAdPerformance.pbit) in Power BI Desktop.
 
- 4. Refresh Data:  If the data doesn't load immediately, go to the Home tab and click Refresh to load the data from the CSV files.
+ 4. Refresh Data:  If the data doesn't load immediately, go to the Home tab and click Refresh to load the data from the CSV file.
                    (The Power Query steps assume the CSV  files are in the same directory as the PBIX file).
 
 
